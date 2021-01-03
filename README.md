@@ -1,6 +1,6 @@
 # Baysian Neural Network
 
-This repository contain my research/experiment about Bayesian Neural Network.
+This repository contains my research/experiment about Bayesian Neural Network.
 
 ## Setup
 
